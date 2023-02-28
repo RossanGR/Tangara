@@ -635,7 +635,7 @@ ol, ul {
   }
 
   .img-carousel2 {
-    width: 360px !important;
+    width: 341px !important;
     box-shadow: none !important;
   }
 
@@ -654,6 +654,10 @@ ol, ul {
   .section-1{
     background-size: cover;
     background-position: left;
+  }
+
+  .content-footer a img{
+    display: none;
   }
 }
 
